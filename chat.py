@@ -31,7 +31,7 @@ def chatear_con_gpt():
         try:
             # Obtener respuesta de OpenAI
             respuesta = cliente.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4o",
                 messages=conversacion,
                 max_tokens=1000
             )
