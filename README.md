@@ -35,7 +35,7 @@ Un clon simple de ChatGPT basado en Python que se ejecuta en tu terminal.
 
 1. Ejecuta el programa:
    ```bash
-   python main.py
+   python chat.py
    ```
 2. Interactúa con el chatbot escribiendo tus mensajes y presionando Enter.
 3. Para salir, escribe 'exit', 'quit' o presiona Ctrl+C.
